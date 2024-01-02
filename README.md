@@ -14,6 +14,8 @@ A few resources to get you started if this is your first Flutter project:
 For help getting started with Flutter development, view the
 [online documentation](https://docs.flutter.dev/), which offers tutorials,
 samples, guidance on mobile development, and a full API reference.
+![MacBook Pro and iPhone 15 Pro Mockup (1)](https://github.com/loye22/netflix_ui/assets/65570842/c95fd7e7-f920-410d-87f8-f6a4a917be00)
+
 ![01](https://user-images.githubusercontent.com/65570842/177568497-d1381b6c-adfe-4a56-8e59-4ab9ddf7e7a7.png)
 ![07](https://user-images.githubusercontent.com/65570842/177568543-b1d454eb-dae4-49f9-a2f5-6819eb02eb85.png)
 ![03](https://user-images.githubusercontent.com/65570842/177568517-007d98e9-f6ac-4792-a54a-d46d4c9b3ff6.png)
